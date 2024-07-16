@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,65 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -172,7 +112,8 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#purpose-of-the-blog" id="toc-purpose-of-the-blog" class="nav-link" data-scroll-target="#purpose-of-the-blog">Purpose of the Blog</a></li>
   </ul>
 </nav>
     </div>
@@ -198,46 +139,20 @@ window.Quarto = {
 </header>
 
 
-<section id="about-me" class="level1">
-<h1>About Me</h1>
-<p>This page provides information about my background, my industrial placement, and the purpose of this blog.</p>
-
+<p>Welcome to my blog.</p>
+<p>My name is James, and I am currently pursuing a Master’s in Data Science and Artificial Intelligence. This blog serves as a documentation of my weekly progress, learnings, and reflections during my industrial placement.</p>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p>I have a strong interest in data science, machine learning, and artificial intelligence. Throughout my coursework, I have gained skills in Python programming, data analysis, and machine learning algorithms. I am excited to apply these skills in real-world projects during my placement.</p>
+</section>
+<section id="purpose-of-the-blog" class="level2">
+<h2 class="anchored" data-anchor-id="purpose-of-the-blog">Purpose of the Blog</h2>
+<p>This blog is intended to: - Document my weekly tasks and progress. - Reflect on the skills and knowledge I acquire. - Share insights and experiences from my industrial placement. - Provide a platform for feedback and discussion with peers and mentors.</p>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Week 1,Journal" data-listing-date-sort="1720998000000" data-listing-file-modified-sort="1721037079753" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
-<div class="thumbnail">
-<p><a href="./posts/week1.html" class="no-external"></a></p><a href="./posts/week1.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/week1.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/week1.html" class="no-external">Week 1 Journal</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/week1.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/week1.html" class="no-external">The first week predominantly focused on getting acquainted with my colleagues and having an initial meeting to assign my first project. This initial project was centred…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/week1.html" class="no-external">
-<div class="listing-date">
-July 15, 2024
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

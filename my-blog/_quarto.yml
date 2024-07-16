@@ -15,9 +15,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-listing:
-  contents:
-    - posts
-  sort: "date"
-  date-format: "long"

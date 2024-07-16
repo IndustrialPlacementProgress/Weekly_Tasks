@@ -2,6 +2,18 @@
 title: "About"
 ---
 
-# About Me
+Welcome to my blog. 
 
-This page provides information about my background, my industrial placement, and the purpose of this blog.
+My name is James, and I am currently pursuing a Master's in Data Science and Artificial Intelligence. This blog serves as a documentation of my weekly progress, learnings, and reflections during my industrial placement.
+
+## Background
+
+I have a strong interest in data science, machine learning, and artificial intelligence. Throughout my coursework, I have gained skills in Python programming, data analysis, and machine learning algorithms. I am excited to apply these skills in real-world projects during my placement.
+
+## Purpose of the Blog
+
+This blog is intended to:
+- Document my weekly tasks and progress.
+- Reflect on the skills and knowledge I acquire.
+- Share insights and experiences from my industrial placement.
+- Provide a platform for feedback and discussion with peers and mentors.
