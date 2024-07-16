@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "my-blog"
+  title: "My Learning Journey"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
@@ -15,5 +16,8 @@ format:
     css: styles.css
     toc: true
 
-
-
+listing:
+  contents:
+    - posts
+  sort: "date"
+  date-format: "long"

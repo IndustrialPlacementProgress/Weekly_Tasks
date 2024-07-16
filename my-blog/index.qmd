@@ -1,7 +1,9 @@
 ---
-title: "my-blog"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Welcome to My Learning Journey
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This site documents my weekly progress and learnings during my industrial placement. Below you will find a chronological list of my journal entries.
+
+```{list}

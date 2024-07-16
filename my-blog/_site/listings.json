@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/posts/week1.html",
+    "items": []
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/week1.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/week1.html"
+    ]
+  }
+]
