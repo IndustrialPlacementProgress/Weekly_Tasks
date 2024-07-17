@@ -1,14 +1,11 @@
 ---
 title: "Home"
----
-
-# Welcome to My Learning Journey
-
-This site documents my weekly progress and learnings during my industrial placement. Below you will find a chronological list of my journal entries and links within to my GitHub repositories and other associated content.
-
----
 listing:
     contents: posts
     sort: date
     date-format: long
 ---
+
+# Welcome to My Learning Journey
+
+This site documents my weekly progress and learnings during my industrial placement. Below you will find a chronological list of my journal entries and links within to my GitHub repositories and other associated content.
