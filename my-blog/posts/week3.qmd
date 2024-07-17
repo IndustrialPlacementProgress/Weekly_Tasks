@@ -1,0 +1,15 @@
+---
+title: "Week 3 Journal"
+date: "2024-07-01"
+categories: ["June", "Journal"]
+---
+
+[Dashboard Link](https://haucommunityfridge.github.io/James_FoodWasteData/FoodWasteDataDashboard.html)
+```{python}
+```
+[HAU Community Fridge GitHub Repo](https://github.com/HAUCommunityFridge/James_FoodWasteData/tree/James-branch?tab=readme-ov-file)
+
+
+This week, I focused on finalising the dashboard. I added an About section and a QR code that links to the community fridge website. I selected and implemented visualisations to display critical information, such as the total number of food items saved, daily averages, and the distribution of food categories. These enhancements ensured that the dashboard effectively communicated the impact of the community fridge. After completing these visualisations, the dashboard was finalised. I also created a comprehensive README file for the dashboard repository using Markdown to ensure proper documentation and usability.
+
+Towards the end of the week, we had an introductory talk about the main project, BirdNet, which I would be working on next. This discussion provided an overview and set the stage for upcoming tasks. Overall, this week was productive, marking the completion of the dashboard and laying the groundwork for the BirdNet project.

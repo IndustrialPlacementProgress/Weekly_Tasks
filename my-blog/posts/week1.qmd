@@ -4,7 +4,10 @@ date: "2024-06-17"
 categories: ["June", "Journal"]
 ---
 
-# Week 1 Journal
+[Food Bank Video Creator GitHub Repo](https://github.com/Jamess200/FoodBank)
+```{python}
+```
+[Time Lapse Video](https://youtu.be/YQYi-I0GTlc)
 
 The first week predominantly focused on getting acquainted with my colleagues and having an initial meeting to assign my first project. This initial project was centred around a communal food fridge aimed at saving food waste from local supermarkets through donations. My task was to create a Python script that could process a series of images, automatically collected by a setup camera, into a time-lapse video, allowing viewers to see how the food was interacted with over time.
 
