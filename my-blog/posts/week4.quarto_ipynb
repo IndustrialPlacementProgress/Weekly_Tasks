@@ -1,0 +1,39 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Week 4 Journal\"\n",
+        "date: \"2024-07-08\"\n",
+        "categories: [\"June\", \"Journal\"]\n",
+        "---\n",
+        "\n",
+        "\n",
+        "[My BirdNET GitHub Repo](https://github.com/Jamess200/MyBirdNetTest)"
+      ],
+      "id": "dfe91bcc"
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "This week, I began exploring BirdNet and familiarizing myself with its libraries and the format of its output data using Google Colab to test the machine-learning framework. I referred to the official BirdNET GitHub page to understand its functionalities better. I also received the first batch of audio recordings to analyze and wrote a script in Google Colab to test run times, interpreting how long it would take to process the audio files. I updated the code to create box plots for run times across various files, which were run three times each to compare how run times differed with multiple runs of the same file.\n",
+        "\n",
+        "I carried out an analysis of variance (ANOVA) to determine if there was a significant difference in the time BirdNet took to analyze the audio files. The results showed no significant difference in the time taken between different files, with a p-value of 0.80. Additionally, I consolidated all CSV data from all transects into one CSV file, ensuring the correct format and columns. Finally, I tested making graphs with the new CSV data. This week was productive in understanding BirdNet's processing times and data analysis capabilities, as well as using Google Colab to create understandable and reproducible code that others can read and run from my GitHub repository."
+      ],
+      "id": "c25a2e5a"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\James Simmill\\AppData\\Local\\Programs\\Python\\Python38\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
