@@ -6,6 +6,6 @@ listing:
     date-format: long
 ---
 
-# Welcome to My Learning Journey
+# Welcome to My Weekly Blog
 
 This site documents my weekly progress and learnings during my industrial placement. Below you will find a chronological list of my journal entries and links within to my GitHub repositories and other associated content.
