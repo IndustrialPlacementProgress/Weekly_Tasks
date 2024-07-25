@@ -1,6 +1,7 @@
 ---
 title: "Week 4 Journal"
 date: "2024-07-08"
+date-format: iso
 categories: []
 ---
 
