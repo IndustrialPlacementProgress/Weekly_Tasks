@@ -1,10 +1,10 @@
 ---
 title: "Week 2 Journal"
 date: "2024-06-24"
-categories: ["June", "Journal"]
+categories: []
 ---
 
-[Dashboard Link](https://haucommunityfridge.github.io/James_FoodWasteData/FoodWasteDataDashboard.html)
+[Dashboard progress 1](https://haucommunityfridge.github.io/James_FoodWasteData/FoodWasteDataDashboard.html)
 ```{python}
 ```
 [HAU Community Fridge GitHub Repo](https://github.com/HAUCommunityFridge/James_FoodWasteData/tree/James-branch?tab=readme-ov-file)

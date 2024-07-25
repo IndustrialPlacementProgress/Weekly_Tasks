@@ -1,7 +1,7 @@
 ---
 title: "Week 1 Journal"
 date: "2024-06-17"
-categories: ["June", "Journal"]
+categories: []
 ---
 
 [Food Bank Video Creator GitHub Repo](https://github.com/Jamess200/FoodBank)

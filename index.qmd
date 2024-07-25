@@ -2,8 +2,8 @@
 title: "Home"
 listing:
     contents: posts
-    sort: date
-    date-format: long
+    sort: "date desc"
+    date-format: iso
 ---
 
 # Welcome to My Weekly Blog

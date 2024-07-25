@@ -1,7 +1,7 @@
 ---
 title: "Week 4 Journal"
 date: "2024-07-08"
-categories: ["June", "Journal"]
+categories: []
 ---
 
 [My BirdNET GitHub Repo](https://github.com/Jamess200/MyBirdNetTest)
