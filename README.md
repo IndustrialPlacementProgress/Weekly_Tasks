@@ -1,6 +1,10 @@
-# Weekly Blog
+<div style="text-align: center;">
+  <h1 style="text-decoration: underline;">Weekly Blog</h1>
+</div>
 
-![Blog Banner](img/blog_readme_img.png)
+<div style="text-align: center;">
+  <img src="img/blog_readme_img.png" alt="Blog Banner" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+</div>
 
 [Link to my Online Personal Profile](https://industrialplacementprogress.github.io/Weekly_Tasks/)
 
