@@ -36,7 +36,7 @@ The following is an overview of the key directories and files in this repository
   - `posts/`: Contains the HTML files for individual weekly posts.
   - `site_libs/`: Includes libraries and assets used by the site, such as CSS and JavaScript files.
 
-- **posts/**: Contains individual `.qmd` files for each week's content along with .Rhistory and .RData. Each file represents a blog entry documenting weekly activities, learnings, and reflections. Example files:
+- **posts/**: Contains individual `.qmd` files for each week's content. Each file represents a blog entry documenting weekly activities, learnings, and reflections. Example files:
   - `week1.qmd`
   - `week2.qmd`
   - `week3.qmd`

@@ -1,2 +1,5 @@
+# Ignored:
+.Rhistory
+.RData
 /.quarto/
 .Rproj.user
