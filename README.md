@@ -1,6 +1,6 @@
 # Weekly Blog
 
-![Blog Banner](img/blog_img.png)
+![Blog Banner](img/blog_readme_img.png)
 
 [Link to my Online Personal Profile](https://industrialplacementprogress.github.io/Weekly_Tasks/)
 
