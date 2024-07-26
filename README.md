@@ -1,5 +1,7 @@
 # Weekly Blog
 
+![Blog Banner](img/blog_img.png)
+
 [Link to my Online Personal Profile](https://industrialplacementprogress.github.io/Weekly_Tasks/)
 
 This repository hosts the source files for my weekly blog during my placement at Harper Adams University. The blog documents my experiences, learning, and progress on various projects related to data analysis and artificial intelligence.
