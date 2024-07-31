@@ -1,0 +1,13 @@
+---
+title: "Week 6 Journal"
+date: "2024-07-24"
+date-format: iso
+categories: []
+---
+
+[My BirdNET GitHub Repo](https://github.com/Jamess200/MyBirdNetTest)
+```{python}
+```
+
+This week focused on finalising and refining visualisations and data management tasks. I completed the graphs for species confidence levels, highlighting the discrepancy between low and high-count species, with lower-count species generally showing lower confidence scores. Additionally, I created a heatmap and bar plots to visualise the frequency of calls and the average accuracy of predictions for various species. I organised the files and graphs, selecting only the most effective ones for the final version of the accuracy notebook. The data was also compiled into an Excel file with a data dictionary for clarity.
+I read Hadley Wickham's "Tidy Data" paper, which provided valuable insights into organising data for analysis. This inspired further improvements to my GitHub Pages blog, making it more informative and professional. I also updated the README files across my projects to enhance their clarity and professionalism.
