@@ -1,9 +1,10 @@
 ---
-title: "Week 7 Journal"
-date: "2024-07-29"
+title: "Week 8 Journal"
+date: "2024-08-05"
 date-format: iso
 categories: []
 ---
+[HAU Community Fridge Fareshare GitHub Repo](https://github.com/HAUCommunityFridge/James_Fareshare_Data)
 
 [My BirdNET GitHub Repo](https://github.com/Jamess200/MyBirdNetTest)
 ```{python}
